@@ -1,0 +1,12 @@
+MERN stands for MongoDB, Express, React, Node. 
+
+1. MongoDB is a non relational database. 
+2. Express is a javascript framework for server-side. It is a fast, unopionionated minimalist web framework for node.js
+3. React is a javascript library for frontend.
+4. Node is a run time environment
+
+- To initialize a node project, open your folder in terminal or cms, then run the command npm init, after that process
+- Install expess by running the command  npm install express.
+
+Assignment
+Know the uses of the following requests delete, patch, put
